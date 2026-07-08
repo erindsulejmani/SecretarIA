@@ -11,4 +11,6 @@ Gli annunci di lavoro sono un segnale indiretto ma potente delle tendenze IA in 
 
 Piattaforme utili: LinkedIn Jobs, Indeed, AngelList, Stack Overflow Jobs, siti career aziendali.
 
-Collegamenti: [[Fonti Avanzate di Ricerca]]
+Vedi anche, con un taglio più operativo da OSINT: [[Job Posting come Indicatore di Strategia]].
+
+Collegamenti: [[Fonti Avanzate di Ricerca]], [[Job Posting come Indicatore di Strategia]]

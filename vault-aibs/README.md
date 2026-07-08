@@ -18,12 +18,14 @@ Vault Obsidian con gli appunti del corso di certificazione **APF AI Business Spe
 
 ## Fonti elaborate
 
-| Lezione | Argomento |
-|---|---|
-| BASI e Storia dell'AI | Storia del deep learning, NLP, Transformer, GPT/BERT, RLHF |
-| BASI 2 | Gerarchia AI/ML/DL/GenAI, fondamenta del Machine Learning |
-| Seconda lezione, parte 1 | Osservare le tendenze dell'IA (hype, trend, horizon scanning) |
-| Seconda lezione, parte 2 | Identificare le informazioni affidabili (fonti, modello CRAAP) |
+| Lezione | Argomento | Note concetto |
+|---|---|---|
+| BASI e Storia dell'AI | Storia del deep learning, NLP, Transformer, GPT/BERT, RLHF, IA debole/forte | 19 |
+| BASI 2 | Gerarchia AI/ML/DL/GenAI, fondamenta ML/DL, RAG, IA agentica, prompt engineering | 40 |
+| Seconda lezione, parte 1 | Osservare le tendenze dell'IA (hype, trend, horizon scanning, STEEP(L), Trend Radar, Gartner Hype Cycle) | 56 |
+| Seconda lezione, parte 2 | Identificare le informazioni affidabili (fonti, modello CRAAP, bias cognitivi, OSINT) | 42 |
+
+Totale: **165 note** (157 concetti + 4 hub di lezione + 1 MOC master), tutte collegate tra loro senza wikilink rotti.
 
 ## Convenzioni
 

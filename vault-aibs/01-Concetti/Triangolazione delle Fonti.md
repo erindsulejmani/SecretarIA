@@ -12,4 +12,6 @@ Il modello classico di triangolazione incrocia i tre livelli visti in [[Fonti Pr
 
 Se tutte e tre le fonti convergono sulla stessa informazione, la probabilità di accuratezza aumenta significativamente. La triangolazione è anche uno strumento di mitigazione contro i [[Bias Cognitivi nella Ricerca]], perché costringe a confrontare prospettive e fonti indipendenti tra loro invece di fermarsi alla prima informazione trovata (si veda anchoring bias in [[Altri Bias Rilevanti]]).
 
-Collegamenti: [[Verifica e Fact-Checking]], [[Fonti Primarie Secondarie e Terziarie]], [[Bias Cognitivi nella Ricerca]]
+Vedi anche l'applicazione dello stesso principio alla validazione dei segnali di tendenza: [[Triangolazione delle Evidenze]].
+
+Collegamenti: [[Verifica e Fact-Checking]], [[Fonti Primarie Secondarie e Terziarie]], [[Bias Cognitivi nella Ricerca]], [[Triangolazione delle Evidenze]]

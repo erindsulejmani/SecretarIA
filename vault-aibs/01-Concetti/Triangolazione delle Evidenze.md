@@ -12,4 +12,6 @@ Si articola su tre assi:
 
 La triangolazione è il modo con cui un segnale debole passa da semplice ipotesi a informazione affidabile, ed è uno dei [[Criteri di Valutazione dei Segnali]] impliciti nel processo di screening e valutazione.
 
-Collegamenti: [[Desk Research vs Field Research]], [[Criteri di Valutazione dei Segnali]]
+Vedi anche il modello di triangolazione applicato alla verifica delle fonti: [[Triangolazione delle Fonti]].
+
+Collegamenti: [[Desk Research vs Field Research]], [[Criteri di Valutazione dei Segnali]], [[Triangolazione delle Fonti]]

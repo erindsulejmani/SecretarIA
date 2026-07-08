@@ -10,4 +10,6 @@ Gli annunci di lavoro (job posting) sono una fonte pratica di [[OSINT per l'Inte
 - **Progetti menzionati**: le descrizioni di progetti specifici nei job posting rivelano applicazioni e casi d'uso in sviluppo.
 - **Location e team size**: dove stanno assumendo? Quanto è grande il team? Sono indicatori di investimento e priorità geografiche.
 
-Collegamenti: [[OSINT per l'Intelligenza Artificiale]]
+Vedi anche, con un taglio più orientato all'osservazione dei trend: [[Job Posting Come Segnale]].
+
+Collegamenti: [[OSINT per l'Intelligenza Artificiale]], [[Job Posting Come Segnale]]
